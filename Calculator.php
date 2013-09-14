@@ -2,6 +2,7 @@
 <html>
 <head>
    <title>Simple Calculator</title>
+   <!-- Created by Sarath -->
 <style type="text/css">
    table{
       width: 200px;
